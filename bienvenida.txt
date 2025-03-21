@@ -1,2 +1,2 @@
-Mensaje de bienvenida!
-Esta es la segunda linea del fichero. 
+¡Mensaje de bienvenida!
+Ésta es la segunda línea del fichero. 
