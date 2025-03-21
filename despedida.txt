@@ -1,2 +1,3 @@
 ¡Mensaje de despedida!
 Adiós, usuari@ :(
+Estamos en la rama fix/modify-both-files
