@@ -1,0 +1,3 @@
+¡Mensaje de bienvenida!
+Ésta es la segunda línea del fichero. 
+Hola, usuari@
